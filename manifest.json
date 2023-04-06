@@ -3,7 +3,7 @@
   "manifest_version": 3,
   "name": "NPM Package Size Extension",
   "version": "0.1",
-  "description": "Lorem Ipsum",
+  "description": "This Extension adds Bundlephobia Minzip size badge to the corresponding NPM package page",
 
   "content_scripts": [
     {
